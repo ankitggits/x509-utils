@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: x509-utils
   description: |
-    Storebrand back api common librery
+    x509 utility
   links:
     - title: Website
       url: http://backstage.io
