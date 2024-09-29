@@ -1,0 +1,8 @@
+site_name: x509-utils
+site_description: ${{values.description}}
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
